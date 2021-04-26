@@ -4,13 +4,14 @@
     "description": "Material v666",
     "version": "0.0.1",
     "publisher": "Tarik",
-    "repository": "github:tarikkavaz/material-newtablab",
+    "repository": "https://github.com/tarikkavaz/material-newtablab.git",
     "engines": {
         "vscode": "^1.55.0"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
