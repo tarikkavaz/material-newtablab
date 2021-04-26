@@ -1,0 +1,21 @@
+{
+    "name": "material-newtablab",
+    "displayName": "Material - NewTabLab",
+    "description": "Material v666",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material - NewTabLab",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material - NewTabLab-color-theme.json"
+            }
+        ]
+    }
+}
