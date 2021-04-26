@@ -4,6 +4,7 @@
     "description": "Material v666",
     "version": "0.0.1",
     "publisher": "Tarik",
+    "repository": "github:tarikkavaz/material-newtablab",
     "engines": {
         "vscode": "^1.55.0"
     },
