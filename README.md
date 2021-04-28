@@ -1,15 +1,18 @@
 # Dark Material VSCode Theme
----
-## Created with [Theme Studio](https://themes.vscode.one/theme/tarik/YVdwapeu)
----
-## [Install](https://marketplace.visualstudio.com/items?itemName=Tarik.material-newtablab) 
 
-## Screen Shot Default
+---
+## Install on [Marketplace](https://marketplace.visualstudio.com/items?itemName=Tarik.material-newtablab) 
+---
+## Screen Shots 
 
+### Default
 ![Screen Shot Default](YVdwapeu-default.jpeg)
 
-## Screen Shot Panel Terminal
+### Terminal
 ![Screen Shot Panel Terminal](YVdwapeu-panelTerminal.jpeg)
 
-## Screen Shot Command Palette
+### Command Palette
 ![Screen Shot Command Palette](YVdwapeu-commandPalette.jpeg)
+
+---
+## Created with [Theme Studio](https://themes.vscode.one/theme/tarik/YVdwapeu)
