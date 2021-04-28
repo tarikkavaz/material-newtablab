@@ -2,7 +2,7 @@
 
 
 
-##[Install](https://marketplace.visualstudio.com/items?itemName=Tarik.material-newtablab) 
+## [Install](https://marketplace.visualstudio.com/items?itemName=Tarik.material-newtablab) 
 
 ## Screen Shot Default
 
