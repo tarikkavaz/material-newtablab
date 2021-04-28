@@ -1,7 +1,7 @@
 # Dark Material VSCode Theme
 
 ---
-## Install on [Marketplace](https://marketplace.visualstudio.com/items?itemName=Tarik.material-newtablab) 
+## Install from [Marketplace](https://marketplace.visualstudio.com/items?itemName=Tarik.material-newtablab) 
 ---
 ## Screen Shots 
 
