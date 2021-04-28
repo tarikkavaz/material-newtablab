@@ -1,7 +1,7 @@
 # Dark Material VSCode Theme
-
-
-
+---
+## Created with [Theme Studio](https://themes.vscode.one/theme/tarik/YVdwapeu)
+---
 ## [Install](https://marketplace.visualstudio.com/items?itemName=Tarik.material-newtablab) 
 
 ## Screen Shot Default
