@@ -1,7 +1,11 @@
 # Dark Material VSCode Theme
 
 
+
+##[Install](https://marketplace.visualstudio.com/items?itemName=Tarik.material-newtablab) 
+
 ## Screen Shot Default
+
 ![Screen Shot Default](YVdwapeu-default.jpeg)
 
 ## Screen Shot Panel Terminal
