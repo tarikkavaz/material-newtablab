@@ -1,6 +1,6 @@
 {
-    "name": "material-newtablab",
-    "displayName": "Material - NewTabLab",
+    "name": "material-theme-k",
+    "displayName": "Material Theme .K",
     "description": "Dark Material VSCode Theme",
     "version": "1.0.17",
     "publisher": "Tarik",
@@ -15,9 +15,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Material - NewTabLab",
+                "label": "Material Theme .K",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Material - NewTabLab-color-theme.json"
+                "path": "./themes/Material Theme .K-color-theme.json"
             }
         ]
     }
