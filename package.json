@@ -2,9 +2,9 @@
     "name": "k-material",
     "displayName": ".K Material",
     "description": "Dark Material VSCode Theme",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "publisher": "tarikkavaz",
-    "repository": "https://github.com/tarikkavaz/material-newtablab.git",
+    "repository": "https://github.com/tarikkavaz/k-material-theme.git",
     "engines": {
         "vscode": "^1.55.0"
     },
