@@ -12,7 +12,3 @@
 
 ### Command Palette
 ![Screen Shot Command Palette](dark-material-command-palette.png)
-
----
-
-## Created with [Theme Studio](https://themes.vscode.one/theme/tarik/YVdwapeu)
