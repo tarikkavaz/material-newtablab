@@ -1,8 +1,6 @@
 # Dark Material VSCode Theme
 
 
-Checkout the `Sublime` folder for **Sublime Text**
-
 ---
 ## Screen Shots 
 
