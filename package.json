@@ -1,9 +1,9 @@
 {
-    "name": "material-theme-k",
-    "displayName": "Material Theme .K",
+    "name": "k-material",
+    "displayName": ".K Material",
     "description": "Dark Material VSCode Theme",
-    "version": "1.0.17",
-    "publisher": "Tarik",
+    "version": "1.0.0",
+    "publisher": "tarikkavaz",
     "repository": "https://github.com/tarikkavaz/material-newtablab.git",
     "engines": {
         "vscode": "^1.55.0"
@@ -15,9 +15,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Material Theme .K",
+                "label": ".K Material",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Material Theme .K-color-theme.json"
+                "path": "./themes/K Material-color-theme.json"
             }
         ]
     }
