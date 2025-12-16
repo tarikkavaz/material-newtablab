@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+### Changed
+- Matched editor background color to terminal background for visual consistency
+
 ### Fixed
 - Added transparency to background colors that were obscuring content:
   - `editor.inactiveSelectionBackground`
