@@ -6,4 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+### Fixed
+- Added transparency to background colors that were obscuring content:
+  - `editor.inactiveSelectionBackground`
+  - `editor.selectionHighlightBackground`
+  - All merge conflict background colors (currentHeaderBackground, currentContentBackground, incomingHeaderBackground, incomingContentBackground, commonHeaderBackground, commonContentBackground)
+  - Minimap highlight colors (findMatchHighlight, selectionHighlight)
+- Updated deprecated properties:
+  - `editorIndentGuide.background` → `editorIndentGuide.background1`
+  - `editorIndentGuide.activeBackground` → `editorIndentGuide.activeBackground1`
+- Fixed fontStyle values: Changed `"normal"` to `""` (empty string) for attribute name styles
+
 - Initial release
