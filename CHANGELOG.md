@@ -7,6 +7,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 ### Changed
+- Added chat.requestBackground and chat.avatarBackground colors to match the new chat UI
+
 - Matched editor background color to terminal background for visual consistency
 
 ### Fixed

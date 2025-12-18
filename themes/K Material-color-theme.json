@@ -1857,6 +1857,8 @@
     "activityBar.border": "#000000",
     "sideBar.background": "#1b1e2b",
     "sideBar.foreground": "#b1e2ff",
+    "chat.requestBackground": "#1b1e2b",
+    "chat.avatarBackground": "#1b1e2b",
     "sideBarSectionHeader.background": "#ffffff00",
     "sideBarSectionHeader.foreground": "#b1e2ff",
     "sideBarSectionHeader.border": "#00000054",
