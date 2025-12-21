@@ -2,7 +2,7 @@
     "name": "k-material",
     "displayName": ".K Material",
     "description": "Dark Material VSCode Theme",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "publisher": "tarikkavaz",
     "repository": "https://github.com/tarikkavaz/k-material-theme.git",
     "engines": {
