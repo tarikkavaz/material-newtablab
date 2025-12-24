@@ -13,3 +13,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Changed
 - Enhanced README with improved structure, troubleshooting guide, FAQ
+
+## [1.1.3] - 2025-12-22
+
+### Changed
+- Changed badge.background
